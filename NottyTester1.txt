@@ -1,0 +1,1 @@
+Test Notification Trigger 1. Standard Github notification settings enabled.
